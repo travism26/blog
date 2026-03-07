@@ -1,6 +1,6 @@
 # The Validate Phase: How I Catch AI Code Issues Before They Reach My Tests
 
-> **Series context:** This is a deep-dive follow-up to [How I Automate Parts of My SDLC with AI Agents](#). If you haven't read that post, the short version: I built an agentic dev workflow (ADW) that automates my full development cycle: Plan → Build → **Validate** → Test → Review → Document. This post focuses on the Validate phase.
+> **Series context:** This is a deep-dive follow-up to [How I Automate Parts of My SDLC with AI Agents](https://dev.to/rickjms/how-i-automate-parts-of-my-software-development-lifecycle-with-ai-agents-43h7). If you haven't read that post, the short version: I built an agentic dev workflow (ADW) that automates my full development cycle: Plan → Build → **Validate** → Test → Review → Document. This post focuses on the Validate phase.
 
 ---
 
