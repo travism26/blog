@@ -39,6 +39,7 @@ Plan → Build → [Validate ×3] → [Test ×3] → Review → Document
 - Custom rules enforce things like: no direct fetch in components, no model imports in routes
 - One command, JSON output, done
 - I create custom claude commands that encapsulate the exact flow each agent needs, so a simplified version of the validation agent's command looks like this:
+- For an actual example [see this validate file:](https://github.com/travism26/claude_code_agent_templates/blob/fc60b8cc96e11fba220a86066a2be6baf5139f1d/example_projects/role_matcher_typescript_webapp/.claude/commands/validate.md)
 
 ```bash
 cd backend && npm run validate:architecture:json
